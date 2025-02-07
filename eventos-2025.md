@@ -33,7 +33,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 | 0xe Hacker Conference | 05/04/2025 | Maceio, AL | A Preencher |
 | Security Bytes Recife | 10/04/2025 | Recife, PE | Evento focado em Networking/Happy Hour |
 | Hacking na Web Day PE | 12/04/2025 | Recife, PE | A Preencher |
-| [RSA Conference](https://www.rsaconference.com/usa) | 28/04/2025 a 01/05/2025 | San Francisco, US | A Preencher |
+| [RSA Conferencee](https://www.rsaconference.com/usa) | 28/04/2025 a 01/05/2025 | San Francisco, US | A Preencher |
 
 ## Maio
 
